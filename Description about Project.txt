@@ -1,0 +1,7 @@
+Blog Website:
+ 	Implemented a way the user can store articles using generic values.
+ 	Developed the website using CakePHP’s MVC framework.
+ 	Used MySQL to connect to the database.
+ 	Deployed the server using Xampp and CakePHP.
+ 	Implemented the database tables and values using PHP myadmin.
+ 	Baked the database values using cake bake command.
